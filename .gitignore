@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python spirit-lens
+services/spirit-lens/.venv/
+services/spirit-lens/models/
+__pycache__/
+*.pyc
+.pytest_cache/
